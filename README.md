@@ -17,7 +17,6 @@ Deep-read HTML editions of top economics papers, by [ShiXiongEcon](https://githu
 
 ## 使用方式
 
-- **在线阅读**：直接点击上表链接（GitHub Pages）。
 - **本地阅读**：克隆本仓库后用浏览器打开对应 HTML 文件。
 - **导出 PDF**：浏览器打印对话框选择「另存为 PDF」，勾选「背景图形」，取消「页眉页脚」（本页 CSS 已用 `@page` 内嵌了「经管大师兄 · ShiXiongEcon」页眉与页码）。
 
