@@ -1,0 +1,11 @@
+# Byte-order marks / OS junk
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts
+*.pdf
