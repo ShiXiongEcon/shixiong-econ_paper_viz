@@ -1,7 +1,7 @@
 # shixiong-econ_paper_viz
 
 **经管大师兄 · 经济学论文可视化精读集**
-Interactive reading cards & long-form deep-reads for top economics papers, by [ShiXiongEcon](https://github.com/ShiXiongEcon).
+Deep-read HTML editions of top economics papers, by [ShiXiongEcon](https://github.com/ShiXiongEcon).
 
 每一份精读为一个独立 HTML 文件，风格统一（长报道式排版、内嵌 MathJax 公式、可打印 A4 PDF）；文件按 **序号-作者-发表时间-期刊-题目** 命名，便于检索。
 
