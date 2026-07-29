@@ -9,3 +9,8 @@ Thumbs.db
 
 # Build artifacts
 *.pdf
+
+# Local preview/test artifacts
+_preview/
+_render_preview.py
+_test_*.pdf
